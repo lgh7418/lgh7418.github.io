@@ -1,5 +1,5 @@
 # Setup
-title:        Awesome
+title:        My Coding
 tagline:      프로그래밍 공부 기록
 baseurl:      ""
 paginate:     1
@@ -11,8 +11,12 @@ author:
   url:        http://lgh7418.github.io
 
 # Gems
-gems:
+plugins:
   - jekyll-paginate
+  - jekyll-mermaid
 
 #Others
 markdown: kramdown
+
+mermaid:
+  src: 'path/to/mermaid.js'
