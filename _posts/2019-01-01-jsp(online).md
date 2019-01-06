@@ -1,8 +1,8 @@
 ---
-title: "Servlet, JSP(3)"
+title: "190101 Servlet"
 layout: default
 categories: JSP
----
+---  
 
 > 인프런 / 실전 JSP (ver.2018) – 신입 프로그래머를 위한 강좌
 
