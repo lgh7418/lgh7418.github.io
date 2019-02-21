@@ -1,0 +1,12 @@
+---
+title: "JSP 한글 깨짐"
+layout: default
+categories: Problems
+---
+
+### JSP 한글 깨짐
+
+```jsp
+<% request.setCharacterEncoding("utf-8"); %>
+```
+
